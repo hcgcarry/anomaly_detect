@@ -1,0 +1,11 @@
+sliding_window:
+  window_size: 1
+
+# RollingAggregate:
+#   window: 10
+#   agg: mediam
+# DoubleRollingAggregate:
+#   window: 10
+#   agg: mediam
+downSample:
+  window: 10

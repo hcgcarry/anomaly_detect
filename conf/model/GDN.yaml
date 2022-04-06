@@ -1,0 +1,7 @@
+name: GDN
+
+sensor_embed_dim: 123
+out_layer_inter_dim:  123
+out_layer_num: 1
+topk: 30
+window_size: 5

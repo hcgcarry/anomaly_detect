@@ -1,0 +1,6 @@
+defaults:
+  - action: train
+  - dataset: SWATDebug
+  - model: CNN_LSTM
+  - hyperParam: normal
+  - dataPreprocessing: correation

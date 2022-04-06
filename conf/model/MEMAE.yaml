@@ -1,0 +1,4 @@
+name: MEMAE
+sliding_window: 
+  window_size: 1
+  window_step: 1

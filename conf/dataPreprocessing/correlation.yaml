@@ -1,0 +1,10 @@
+sliding_window:
+  window_size: 1
+CorrelationMatrix:
+  window: 12
+PcaProjection:
+  dim: 300
+# RollingAggregate:
+#   use: False
+#   agg: mean
+#   window: 5
